@@ -21,6 +21,7 @@ Passionate Data Science innovator blending Python, Machine Learning, and Visuali
 + Web Technologies: HTML, CSS, JavaScript
 + Tools: Power BI, Tableau, MS Excel, Qlik Sense, VScode, Canva, Figma
 + Specialties: Data Analysis, Data Science, Data Structures & Algorithms (DSA), Machine Learning
++ Cloud: AWS - S3, EC2, Redshift, Athena, EKS
   
 
 ### Certifications 📜 
