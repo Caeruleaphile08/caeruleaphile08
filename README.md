@@ -17,9 +17,9 @@ Passionate Data Science innovator blending Python, Machine Learning, and Visuali
 ### Tech Toolbox 🛠️
 + Languages: Python, Java, C
 + Databases: SQL, MongoDB
-+ Frameworks & Libraries: Django, PyTorch, NLTK
++ Frameworks & Libraries: Django, PyTorch, NLTK, Pandas, Numpy
 + Web Technologies: HTML, CSS, JavaScript
-+ Tools: Power BI, Tableau, MS Excel, Qlik Sense, VScode, Canva, Figma
++ Tools: Power BI, Tableau, MS Excel, Qlik View, VScode, Canva, Figma
 + Specialties: Data Analysis, Data Science, Data Structures & Algorithms (DSA), Machine Learning
 + Cloud: AWS - S3, EC2, Redshift, Athena, EKS
   
