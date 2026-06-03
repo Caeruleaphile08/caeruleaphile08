@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mahima Tejeshwini!<br/>
 
-## 🚀 Data Science Aspirant 
+## 🚀 Data Analyst | Data Scientist
 
 📍 Coimbatore<br/>
 📧 Email: mahimatejeshwini26@gmail.com<br/>
@@ -8,7 +8,7 @@
 👨‍💻 GitHub: [Caeruleaphile](https://github.com/Caeruleaphile08) <br/>
 
 ### About Me 🌐  <br/>
-Passionate Data Science innovator blending Python, Machine Learning, and Visualization to uncover insights and drive impactful solutions in data analysis.
+Data Scientist with 1+ year of experience innovator blending Python, SQL, Machine Learning, and Visualization to uncover insights and drive impactful solutions in data analysis.
 <br/>
 
 ### Education 🎓 
@@ -16,7 +16,7 @@ Passionate Data Science innovator blending Python, Machine Learning, and Visuali
   
 ### Tech Toolbox 🛠️
 + Languages: Python, Java, C
-+ Databases: SQL, MongoDB
++ Databases: SQL, MongoDB, Databricks
 + Frameworks & Libraries: Django, PyTorch, NLTK, Pandas, Numpy
 + Web Technologies: HTML, CSS, JavaScript
 + Tools: Power BI, Tableau, MS Excel, Qlik View, VScode, Canva, Figma
